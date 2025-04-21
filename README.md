@@ -71,6 +71,6 @@ To run the game:
 
 Developed with love and a little rage by [@wigi-cmd](https://github.com/wigi-cmd)  
 Built by the resistance.  
-*Made on Earth by humans.*
+
 
 ---
